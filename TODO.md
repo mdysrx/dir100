@@ -11,6 +11,6 @@ Steps to make:
 [PROJECT]
 
 [X] - Add README.md
-[ ] - Add a demo GIF to README.md
-[ ] - Publish to GitHub
-[ ] - Share on Reddit
+[X] - Add a demo GIF to README.md
+[X] - Publish to GitHub
+[X] - Share on Reddit
