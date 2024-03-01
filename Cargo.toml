@@ -2,7 +2,7 @@
 name = "dir100"
 version = "1.0.0"
 edition = "2021"
-description = "dir100 is a simple CLI to create empty directories wit empty text files within them"
+description = "dir100 is a simple CLI to create empty text files"
 authors = ["Muhammad Yasser <https://twitter.com/mdysrx>"]
 homepage = "https://github.com/mdysrx/dir100"
 repository = "https://github.com/mdysrx/dir100"
