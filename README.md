@@ -19,7 +19,7 @@ Download the binary from the releases page [here](https://github.com/mdysrx/dir1
 
 `dir100 -f 3 -d 10` should create 10 directories, including 3 empty .txt files each
 
-`faker -h` show help
+`dir100 -h` show help
 
 
 > Note #2: all generated files  & directories are created within a `dir_100` directory
