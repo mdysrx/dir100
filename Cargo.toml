@@ -1,0 +1,15 @@
+[package]
+name = "dir100"
+version = "1.0.0"
+edition = "2021"
+description = "dir100 is a simple CLI to create empty directories wit empty text files within them"
+authors = ["Muhammad Yasser <https://twitter.com/mdysrx>"]
+homepage = "https://github.com/mdysrx/dir100"
+repository = "https://github.com/mdysrx/dir100"
+documentation = "https://github.com/mdysrx/dir100"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.5.1", features = ["derive"] }
