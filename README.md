@@ -9,7 +9,7 @@ This tool is meant to serve as a practice for the Rust language.
 
 ### How to use?
 
-Download the binary from the releases page [here]()
+Download the binary from the releases page [here](https://github.com/mdysrx/dir100/releases)
 
 > Note #1: the binary only worx on Linux at the moment
 
